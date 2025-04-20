@@ -1,0 +1,18 @@
+{
+  "name": "mcp_wow",
+  "version": "1.0.0",
+  "description": "## Overview This repository contains resources and information for the MCP (Model Context Protocol) Server Seminar. The seminar focuses on understanding and implementing MCP servers, with practical examples and tools to help participants get started.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
